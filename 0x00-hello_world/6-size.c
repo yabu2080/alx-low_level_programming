@@ -13,4 +13,4 @@ intf("Size of a long int: %d bytes(s)\n", sizeof(long int));
 intf("Size of a long long int: %d bytes(s)\n", sizeof(long long int));
 intf("Size of a float: %d bytes(s)\n", sizeof(float));
 return (0);
-}
+}wtf
