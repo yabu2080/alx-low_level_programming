@@ -1,4 +1,4 @@
-nclude <stdio.h>
+#include <stdio.h>
 
 /**
  *   *  * main - Entry point
@@ -9,5 +9,5 @@ int main(void)
 {
                puts("\"Alx low level programming);
                          
-                          return (0);
+                       return (0);
 }	   		  
